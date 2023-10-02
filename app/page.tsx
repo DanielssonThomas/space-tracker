@@ -1,5 +1,11 @@
-import Image from "next/image";
+import Header from "@/components/global/header";
 
 export default function Home() {
-  return <></>;
+  return (
+    <>
+      <div className="flex flex-col w-screen h-screen">
+        <Header />
+      </div>
+    </>
+  );
 }
