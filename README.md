@@ -13,4 +13,4 @@ then open [http://localhost:3000](http://localhost:3000) with your browser to se
 ## Contribution
 Any and all contribution is most welcome! I am fairly new to Next.js and I am sure to make mistakes along the way. If you notice improvements that can be made, and have the time to help this project out, please do! If you are new to contributing to other projects, that works out great. As I myself am trying to learn and get into open source :)
 
-For more information check out the [`contribution`](CONTRIBUTING.md) page.
+For more information check out [the contribution page](CONTRIBUTING.md).
