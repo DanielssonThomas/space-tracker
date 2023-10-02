@@ -3,7 +3,7 @@ This is a small project with the goal of displaying fun up-and-coming space rela
 
 Its a Next.js project, bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-
+Not currently implemented, however the project will be using [the space devs Launch Library 2](https://thespacedevs.com/llapi)
 ## Getting Started
 
 you can run the development server with `npm run dev`, `yarn dev` or `pnpm dev`
