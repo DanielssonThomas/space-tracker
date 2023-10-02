@@ -1,5 +1,5 @@
 ## Space Tracker!
-This is a small project with the goal of displaying fun up-and-coming space related activities!
+This is a small project with the goal of displaying fun up-and-coming space related activities! It is only meant as a fun side project and not for any other use.
 
 Its a Next.js project, bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
